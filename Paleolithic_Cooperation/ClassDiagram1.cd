@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Segoe UI" Size="9" />
+  <Class Name="Paleolithic_Cooperation.Agents.Human">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Agents\Human.cs</FileName>
+      <HashCode>PEigAAIECgAAgABFgAQEERABYigBGAIAIABgkAkgAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paleolithic_Cooperation.Agents.Mammoth">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Agents\Mammoth.cs</FileName>
+      <HashCode>AEABAAAQAEAAAAABAAAEFBAAQAAAAAIQIAAgkEEgAgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paleolithic_Cooperation.ChartDrawer">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ChartDrawer.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAoAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paleolithic_Cooperation.DBGraphics">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DBgraphics.cs</FileName>
+      <HashCode>AAAAAAAAQAAAAiQAQAAAAAAAAAAAAAgIABAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paleolithic_Cooperation.DPanel">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DPanel.cs</FileName>
+      <HashCode>AACAAAAIAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paleolithic_Cooperation.Entity" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Entity.cs</FileName>
+      <HashCode>AAAAAAEAAAAAUAAAAAAAAAAAQAAAAhIAIABgmAEAAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paleolithic_Cooperation.Environment">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Environment.cs</FileName>
+      <HashCode>AAAwBFAgCQCCwUSETgKAQAAAAQJgAAIAAQAEgAQCACI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paleolithic_Cooperation.Form1">
+    <Position X="9.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Form1.cs</FileName>
+      <HashCode>/wTQIQDEECEAEtGAFCDBAAQKBcw5IoWCgH4OAoHAADM=</HashCode>
+    </TypeIdentifier>
+    <Members>
+      <Field Name="backgroundWorker1" Hidden="true" />
+      <Field Name="button1" Hidden="true" />
+      <Field Name="button2" Hidden="true" />
+      <Field Name="button3" Hidden="true" />
+      <Field Name="button4" Hidden="true" />
+      <Field Name="button5" Hidden="true" />
+      <Field Name="button6" Hidden="true" />
+      <Field Name="checkBox1" Hidden="true" />
+      <Field Name="chkDraw" Hidden="true" />
+      <Field Name="cmbAdd" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label10" Hidden="true" />
+      <Field Name="label11" Hidden="true" />
+      <Field Name="label12" Hidden="true" />
+      <Field Name="label13" Hidden="true" />
+      <Field Name="label14" Hidden="true" />
+      <Field Name="label15" Hidden="true" />
+      <Field Name="label16" Hidden="true" />
+      <Field Name="label17" Hidden="true" />
+      <Field Name="label18" Hidden="true" />
+      <Field Name="label19" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label20" Hidden="true" />
+      <Field Name="label21" Hidden="true" />
+      <Field Name="label22" Hidden="true" />
+      <Field Name="label23" Hidden="true" />
+      <Field Name="label24" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label7" Hidden="true" />
+      <Field Name="label8" Hidden="true" />
+      <Field Name="label9" Hidden="true" />
+      <Field Name="lblStep" Hidden="true" />
+      <Field Name="pnlContainer" Hidden="true" />
+      <Field Name="pnlGraph" Hidden="true" />
+      <Field Name="pnlToolbox" Hidden="true" />
+      <Field Name="timer1" Hidden="true" />
+      <Field Name="trackBar1" Hidden="true" />
+      <Field Name="txtActions" Hidden="true" />
+      <Field Name="txtDeathProb" Hidden="true" />
+      <Field Name="txtHMaxAge" Hidden="true" />
+      <Field Name="txtHReproductionCost" Hidden="true" />
+      <Field Name="txtHReproductionThreshold" Hidden="true" />
+      <Field Name="txtHumans" Hidden="true" />
+      <Field Name="txtHunterDmg" Hidden="true" />
+      <Field Name="txtMammothMaxAge" Hidden="true" />
+      <Field Name="txtMammothRThreshold" Hidden="true" />
+      <Field Name="txtMammoths" Hidden="true" />
+      <Field Name="txtMaxPlantAge" Hidden="true" />
+      <Field Name="txtMaxplantval" Hidden="true" />
+      <Field Name="txtObstacles" Hidden="true" />
+      <Field Name="txtPayoffMultiplier" Hidden="true" />
+      <Field Name="txtPlants" Hidden="true" />
+      <Field Name="txtPlantsReproduce" Hidden="true" />
+      <Field Name="txtPunishment" Hidden="true" />
+      <Field Name="txtPunishmentCost" Hidden="true" />
+      <Field Name="txtRegrow" Hidden="true" />
+      <Field Name="txtSteps" Hidden="true" />
+      <Field Name="txtStrategyMutation" Hidden="true" />
+    </Members>
+  </Class>
+  <Class Name="Paleolithic_Cooperation.GridDrawer">
+    <Position X="13.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GridDrawer.cs</FileName>
+      <HashCode>AkIAEAAAAAQAAAAiIE4AIAAAIAIAQAAAAAAAAAAQAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paleolithic_Cooperation.Program" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paleolithic_Cooperation.Utils">
+    <Position X="11.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Utils.cs</FileName>
+      <HashCode>gAAUAAAQAIAAEAAQAAAAAAAYEAAAAAAAAAQAAAAAECA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paleolithic_Cooperation.Objects.Plant">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Objects\Plant.cs</FileName>
+      <HashCode>AAAAAIAARAAAAAABAAAAAAAAQAAAAAICIAAg0AAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paleolithic_Cooperation.Objects.Stone">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Objects\Stone.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAIAIAAAEAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paleolithic_Cooperation.Properties.Resources" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paleolithic_Cooperation.Properties.Settings" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Paleolithic_Cooperation.Agents.Strategies">
+    <Position X="13.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Agents\Human.cs</FileName>
+      <HashCode>AAAAAAAAABAAAAQAAAAAAAAAAAAAAAAAAAAAAAEQAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+</ClassDiagram>
